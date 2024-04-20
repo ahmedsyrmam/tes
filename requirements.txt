@@ -1,4 +1,1 @@
 telebot
-subprocess
-os
-re
